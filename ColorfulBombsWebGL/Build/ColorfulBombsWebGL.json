@@ -1,0 +1,13 @@
+{
+"companyName": "NPCA",
+"productName": "ColorfulBombs",
+"dataUrl": "ColorfulBombsWebGL.data.unityweb",
+"wasmCodeUrl": "ColorfulBombsWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "ColorfulBombsWebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#323232",
+"cacheControl": {"default": "must-revalidate"}
+}

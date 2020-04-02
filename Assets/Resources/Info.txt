@@ -1,0 +1,17 @@
+<color=cyan><size=27><i><b>Colorful Bombs</b></i></size></color>
+
+<size=14>色とりどりの爆弾を撃って敵を倒す・倒す・倒す!!!</size>
+<size=14>爆弾を打つ度に<color=orange>MP</color>が減るから注意して!</size>
+<size=14><color=orange>MP</color>がなくなると爆弾が撃てなくなるよ</size>
+<size=14>敵に当たったり、爆弾が爆発する時の粒子に触れると<color=lime>HP</color>が減るから気をつけて</size>
+<size=14><color=lime>HP</color>が無くなったり、<color=red>画面より下にはみ出したり</color>したらゲームオーバーだよ</size>
+<size=18><color=#330033><b>紫色のの球</b></color>......敵:触るとダメジーを受ける</size>
+<size=18><color=yellow><b>黄色の球</b></color>......MP回復アイテム:触れるとMPを回復する</size>
+<size=18><color=#ee5aa6><b>桃色の球</b></color>......HP回復アイテム:触れるとHPを回復する</size>
+
+<size=14><color=orange>HP</color>と<color=lime>HP</color>の残量は右下のゲージで確認できるよ</size>
+
+<color=red><size=20>操作説明</size></color>
+<size=14>矢印キー......移動</size>
+<size=14>スペースキー......爆弾を撃つ</size>
+<size=14>Shift+矢印キー......加速 (<color=red>加速するとMPが減るよ</color>)</size>
